@@ -23,6 +23,6 @@ Infine nell'ultima parte possiamo vedere la parte dei test, che permette di veri
 - controllare se si ha node.js con il comando `node -v`
   in caso non si avesse node.js puoi scaricarlo cliccando [qui](https://nodejs.org/en)
 - controllare se si ha TypeScript con il comando `tsc -v`
-  in caso non si avesse node.js puoi scaricarlo con il seguente comando `npm install -g typescript`
+  in caso non si avesse TypeScript puoi scaricarlo con il seguente comando `npm install -g typescript`
 
   se tutto é stato installato correttamente con il comando `node app.ts`, mostrerá una serie di console.log che non sono altro che quelli inseriti nella parte finale del codice
