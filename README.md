@@ -1,6 +1,6 @@
 # PROGETTO TYPESCRIPT
 
-Vuoi provare il codice senza scaricarlo? ![Clicca qui!](https://codepen.io/GiulioBorzetta/pen/zYVgWYW)
+Vuoi provare il codice senza scaricarlo? [Clicca qui!](https://codepen.io/GiulioBorzetta/pen/zYVgWYW)
 
 ## STRUTTURA DEL CODICE
 
