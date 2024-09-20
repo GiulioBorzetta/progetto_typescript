@@ -17,3 +17,12 @@ A seguire ci sono le classi, dove vengono dichiarate tutti gli elementi necessar
 Infine nell'ultima parte possiamo vedere la parte dei test, che permette di verificare se il codice funzionasse senza alcun tipo di problema oppure se dovesse riscontrare dei problemi.
 
 ![Test](https://github.com/GiulioBorzetta/progetto_typescript/blob/main/images/test.png)
+
+## COME AVVIARE IL PROGETTO SUL PROPRIO PC?
+
+- controllare se si ha node.js con il comando `node -v`
+  in caso non si avesse node.js puoi scaricarlo cliccando [qui](https://nodejs.org/en)
+- controllare se si ha TypeScript con il comando `tsc -v`
+  in caso non si avesse node.js puoi scaricarlo con il seguente comando `npm install -g typescript`
+
+  se tutto é stato installato correttamente con il comando `node app.ts`, mostrerá una serie di console.log che non sono altro che quelli inseriti nella parte finale del codice
