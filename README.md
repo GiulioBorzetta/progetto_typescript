@@ -14,6 +14,6 @@ A seguire ci sono le classi, dove vengono dichiarate tutti gli elementi necessar
 ![Classe Parte1](https://github.com/GiulioBorzetta/progetto_typescript/blob/main/images/class1.png)
 ![Classe Parte2](https://github.com/GiulioBorzetta/progetto_typescript/blob/main/images/class2.png)
 
-Infine nell'ultima parte possiamo vedere la parte dei test, che permette di verificare se il codice funzione senza alcun tipo di problema oppure se dovesse riscontrare dei problemi.
+Infine nell'ultima parte possiamo vedere la parte dei test, che permette di verificare se il codice funzionasse senza alcun tipo di problema oppure se dovesse riscontrare dei problemi.
 
 ![Test](https://github.com/GiulioBorzetta/progetto_typescript/blob/main/images/test.png)
